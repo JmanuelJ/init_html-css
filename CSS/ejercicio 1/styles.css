@@ -1,0 +1,16 @@
+body {
+    color: blue;
+    background-color: silver;
+}
+h1 {
+    color: red;
+}
+h2{
+    background-color: pink;
+}
+h2 em {
+    color: #eeeeee;
+}
+#ultimo{
+    text-decoration: underline;
+}
