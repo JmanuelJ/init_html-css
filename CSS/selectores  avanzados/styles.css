@@ -1,0 +1,48 @@
+/* atributos
+img[src="gato.jpg"] {
+    width: 100%;
+}
+
+final
+img[src$="jpg"] {
+    width: 100%;
+}
+
+inicial
+img[src^="gato"] {
+    width: 100%;
+}*/
+
+img[src="gato.jpg"] {
+    width: 100%;
+}
+
+/*
+ul strong {
+    color: red;
+}
+
+ul > strong {
+    color: red;
+}
+
+Hermanos adyacentes
+h1 + p {
+    color: blueviolet;
+}
+
+h1 ~ p {
+    color: blueviolet;
+}*/
+
+h, p {
+    color: brown;
+}
+
+ul li {
+    color: blue;
+}
+
+li > em {
+    color: red;
+}
